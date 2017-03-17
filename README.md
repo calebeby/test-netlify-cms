@@ -1,5 +1,7 @@
 # Netlify CMS small-business template
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/calebeby/test-netlify-cms.svg)](https://greenkeeper.io/)
+
 This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms).
 
 ## Getting started
